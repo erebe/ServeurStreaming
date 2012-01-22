@@ -1,0 +1,5 @@
+Application permettant de streamer des flux videos via UDP, TCP ou en Multicast
+Les serveurs sont multi-utilisateurs et asynchrone
+
+
+Réalisé avec Qt

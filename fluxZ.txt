@@ -1,0 +1,14 @@
+ID: 9
+Name: Zelda
+Type: JPEG
+Address: 127.0.0.1
+Port: 11100
+Protocol: TCP_PUSH 
+IPS: 2
+.\Images\Zelda\img1.jpg
+.\Images\Zelda\img2.jpg
+.\Images\Zelda\img3.jpg
+.\Images\Zelda\img4.jpg
+.\Images\Zelda\img5.jpg
+.\Images\Zelda\img6.jpg
+.\Images\Zelda\img7.jpg
